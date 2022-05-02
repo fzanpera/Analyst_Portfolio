@@ -1,0 +1,3 @@
+Welcome to my Analyst Portfolio Repository :)
+
+Here you will find examples of projects I've done in my free time to showcase my SQL, Python and data visualization skills and abilities.
