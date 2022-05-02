@@ -1,0 +1,6 @@
+Using a kaggle dataset (https://www.kaggle.com/datasets/danielgrijalvas/movies) in python with Pandas, 
+NumPy, MatPlot & Seaborn, see if there exists a correlation between:
+A) Budget of the movie and the eventual Gross Revenue
+B) Company that produces the picture and the Gross Revenue
+
+Includes some data cleanup and housekeeping, as well as numerization and plotting data on graphs.
